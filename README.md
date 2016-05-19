@@ -1,0 +1,1 @@
+# activerecord-validations-readme-seiji-test-batch-001
